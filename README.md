@@ -7,11 +7,12 @@ COMING SOON ...
 
 
 
-
+```
 Citation:
 Qiang Li, Zhaoliang Yao, Jingjing Wang, Ye Tian, Pengju Yang, Di Xie, Shiliang Pu, "Semi-Supervised Ranking for Object Image Blur Assessment," IEEE International Conference on Image Processing, 2022.
+```
 
-
+```
 Copyright (c) Hangzhou Hikvision Digital Technology Co., Ltd. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -27,4 +28,4 @@ limitations under the License.
 
 
 Abstract: Codes and dataset of ICIP2022 paper "Semi-supervised Ranking for Object Image Blur Assessment".
-
+```
