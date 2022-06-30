@@ -26,6 +26,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-
 Abstract: Codes and dataset of ICIP2022 paper "Semi-supervised Ranking for Object Image Blur Assessment".
 ```
