@@ -48,6 +48,8 @@ e.g. "LFW/Gordon_Brown_0007_2.jpg 1\n":
 It means that image "image_name" rank order "image_order" in current test set. The larger the rank order, the more blur is this image.
 
 
+
+
 ```
 Citation:
 Qiang Li, Zhaoliang Yao, Jingjing Wang, Ye Tian, Pengju Yang, Di Xie, Shiliang Pu, "Semi-Supervised Ranking for Object Image Blur Assessment," IEEE International Conference on Image Processing, 2022.
