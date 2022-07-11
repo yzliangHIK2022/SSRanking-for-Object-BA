@@ -1,6 +1,8 @@
 # SSRanking-for-Object-BA
 Dataset of our ICIP2022 paper: "Semi-Supervised Ranking for Object Image Blur Assessment".
 
+![Frame_work](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA/blob/main/FrameWork.PNG)
+
 # Download Dataset
 
 We realease the txt files on the "Release" of this repo: https://github.com/yzliangHIK2022/SSRanking-for-Object-BA/releases/tag/releaseDataset_1.0
