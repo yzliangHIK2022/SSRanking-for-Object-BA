@@ -3,14 +3,14 @@ Dataset of our ICIP2022 paper: "Semi-Supervised Ranking for Object Image Blur As
 
 ![Frame_work](https://github.com/yzliangHIK2022/SSRanking-for-Object-BA/blob/main/FrameWork.PNG)
 
-# Download Dataset
+# Dataset Download
 
 We realease the txt files on the "Release" of this repo: https://github.com/yzliangHIK2022/SSRanking-for-Object-BA/releases/tag/releaseDataset_1.0
 
 Please kindly refer to above URL for downloading.
 
 
-# Description
+# Details
 ## Crop information
 We provide the face **cropped information** of dataset images in: 
 ```LFW_all_imgs_list.txt, CASIA_all_imgs_list.txt, WiderFace_train_all_imgs_list.txt, WiderFace_val_all_imgs_list.txt, MegaFace_all_imgs_list.txt.```
@@ -22,7 +22,7 @@ e.g. "LFW>>Aaron_Eckhart_0001.jpg>>22 33 202 202>>Aaron_Eckhart_0001.jpg\n":
 It means that image "Aaron_Eckhart_0001.jpg" is cropped from "LFW" dataset based on position of "22 33 202 202" in original image "Aaron_Eckhart_0001.jpg".
 
 
-## Dataset for training 
+## Training datasets
 We release our supervised and unsupervised **tranning list**:
 ```SSRanking_OBA_train_supervised_5k.txt, SSRanking_OBA_train_supervised_10k.txt, SSRanking_OBA_train_unsupervised.txt.```
 
@@ -39,7 +39,7 @@ e.g. "Images_Wider_Train/35--Basketball/35_Basketball_playingbasketball_35_397_2
 Image "Image_left" and image "Image_right" will be used as unsupervised image-pair for unsupervised training by L_{QRC} which is detailed in our paper.
 
 
-## Dataset for testing
+## Testing dataset
 We release our **testing list**: 
 ```SSRanking_OBA_test_test1.txt, SSRanking_OBA_test_test2.txt SSRanking_OBA_test_test3.txt.```
 
