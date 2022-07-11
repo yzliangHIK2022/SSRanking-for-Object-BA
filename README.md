@@ -49,7 +49,7 @@ It means that image "image_name" rank order "image_order" in current test set. T
 
 
 
-## Citation:
+# Citation:
 ```
 Qiang Li, Zhaoliang Yao, Jingjing Wang, Ye Tian, Pengju Yang, Di Xie, Shiliang Pu, "Semi-Supervised Ranking for Object Image Blur Assessment," IEEE International Conference on Image Processing, 2022.
 ```
