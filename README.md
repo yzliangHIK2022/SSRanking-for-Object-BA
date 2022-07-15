@@ -53,5 +53,10 @@ It means that image "image_name" rank order "image_order" in current test set. T
 
 # Citation:
 ```
-Qiang Li, Zhaoliang Yao, Jingjing Wang, Ye Tian, Pengju Yang, Di Xie, Shiliang Pu, "Semi-Supervised Ranking for Object Image Blur Assessment," IEEE International Conference on Image Processing, 2022.
+@misc{2207.06085,
+Author = {Qiang Li and Zhaoliang Yao and Jingjing Wang and Ye Tian and Pengju Yang and Di Xie and Shiliang Pu},
+Title = {Semi-supervised Ranking for Object Image Blur Assessment},
+Year = {2022},
+Eprint = {arXiv:2207.06085},
+}
 ```
